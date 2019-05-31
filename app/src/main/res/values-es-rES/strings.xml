@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">" Hola mundo"</string>
+    <string name="good_mornig">" Buen día"</string>
+    <string name="hello_world">" ¡Hola mundo!"</string>
+    <string name="constraint_layout">Diseño de restricción</string>
+    <string name="todo">TODO</string>
+    <string name="by_equipe_c">By Equipe A</string>
+    <string name="menu">Menu Trabajo</string>
+    <string name="tela_1">Constrant</string>
+    <string name="Tela2">Linear</string>
+    <string name="clear">Limpio</string>
+    <string name="bs">BS</string>
+    <string name="calcButton">Calculadora</string>
+    <string name="channel_name">hello_notification</string>
+    <string name="channel_description">Hello App</string>
+</resources>
